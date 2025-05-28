@@ -1,6 +1,5 @@
 package com.javaselenium;
 
-import java.sql.Time;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;

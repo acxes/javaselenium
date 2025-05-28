@@ -14,8 +14,12 @@ public final class App {
      */
     public static void main(String[] args) throws InterruptedException {
         System.out.println("Hello World!");
-        Google testGoogle = new Google();
+        // Google testGoogle = new Google();
 
-        testGoogle.testGoogleSearch();
+        // testGoogle.testGoogleSearch();
+
+        SGLogin sg = new SGLogin();
+
+    sg.testLogin();
     }
 }
